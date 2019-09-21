@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d2572813c11fd4d43a939cd2e616eceb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kashima Brush Demo
+  fontNames:
+  - Kashima Brush Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: de2dd7b93d9e14be28da58f062cff242, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
